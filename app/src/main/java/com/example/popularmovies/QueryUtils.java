@@ -12,7 +12,7 @@ public class QueryUtils {
 
     // Data to create url, including my private key
     private final static String MOVIE_DATABASE_URL = "http://api.themoviedb.org/3/movie";
-    private final static String API_KEY = "b646eeec17d4db1be4fb181c4652c0e7";
+    private final static String API_KEY = "enter your key";
 
     // Build Url necessary to retrieve data from the internet
     public static URL buildUrl(String[] query)  {
